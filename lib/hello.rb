@@ -8,4 +8,5 @@ while i < array.length
   end
 
   array
-end
+else
+  puts "Hey! No block was given!"
